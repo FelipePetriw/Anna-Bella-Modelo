@@ -2,7 +2,7 @@
 
 
 ## 💻 Sobre o Projeto
-Desenvolvimento de site da modelo Anna Bella, para apresentação de sua carreira como modelo e campanhas publicitarias realizadas.
+Desenvolvimento de site da modelo Anna Bella, para apresentação de sua carreira como modelo e campanhas realizadas.
 
 Nele é possivel conhecer a história de Anna Bella, acompanhar as ultimas campanhas publicitárias e contato com ela.
 
